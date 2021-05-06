@@ -1,2 +1,0 @@
-# GG-Verkaufsbot
-GG-Verkaufsbot
